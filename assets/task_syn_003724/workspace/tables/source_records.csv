@@ -1,0 +1,12 @@
+raw_id,region,status,units,unit_cost,note
+qua-000,east,paused,3,20,standard
+qua-001,west,active,6,31,standard
+qua-002,central,active,9,13,standard
+qua-003,north,paused,12,24,standard
+qua-004,south,active,15,6,standard
+qua-005,east,active,18,17,standard
+qua-006,west,paused,4,28,standard
+qua-007,central,active,7,10,standard
+qua-008,north,active,10,21,standard
+qua-009,south,paused,13,32,standard
+qua-010,east,active,16,14,standard

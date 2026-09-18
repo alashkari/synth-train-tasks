@@ -1,0 +1,10 @@
+ticket,severity,owner
+T005495-0,low,ari
+T005495-1,normal,bea
+T005495-2,high,cam
+T005495-3,low,dev
+T005495-4,normal,ari
+T005495-5,high,bea
+T005495-6,low,cam
+T005495-7,normal,dev
+T005495-8,high,ari

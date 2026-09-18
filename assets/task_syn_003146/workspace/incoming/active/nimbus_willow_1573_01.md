@@ -1,0 +1,4 @@
+record 1 for release readiness in nimbus-willow-1573
+status=active
+signal=keep
+detail detail detail detail detail 

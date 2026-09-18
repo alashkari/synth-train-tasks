@@ -1,0 +1,10 @@
+T004800-0 state=blocked
+T004800-1 state=ready
+T004800-2 state=ready
+T004800-3 state=ready
+T004800-4 state=blocked
+T004800-5 state=ready
+T004800-6 state=ready
+T004800-7 state=ready
+T004800-8 state=blocked
+malformed log line without a ticket id

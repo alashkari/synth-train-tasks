@@ -1,0 +1,10 @@
+ticket,severity,owner
+T006480-0,low,ari
+T006480-1,normal,bea
+T006480-2,high,cam
+T006480-3,low,dev
+T006480-4,normal,ari
+T006480-5,high,bea
+T006480-6,low,cam
+T006480-7,normal,dev
+T006480-8,high,ari

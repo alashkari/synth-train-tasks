@@ -1,0 +1,10 @@
+ticket,severity,owner
+T001895-0,low,ari
+T001895-1,normal,bea
+T001895-2,high,cam
+T001895-3,low,dev
+T001895-4,normal,ari
+T001895-5,high,bea
+T001895-6,low,cam
+T001895-7,normal,dev
+T001895-8,high,ari

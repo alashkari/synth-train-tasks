@@ -1,0 +1,511 @@
+{
+  "accepted_tasks": 8000,
+  "base_scenario_fingerprint_overflows": {},
+  "exact_prompt_duplicates": [],
+  "fixture_schema_groups_over_3": 137,
+  "grader_similarity_pairs_for_inspection": [
+    {
+      "left": "task_syn_000003",
+      "right": "task_syn_004683",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002515",
+      "right": "task_syn_004075",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002515",
+      "right": "task_syn_005635",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_004075",
+      "right": "task_syn_005635",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_003980",
+      "right": "task_syn_007100",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000956",
+      "right": "task_syn_002516",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000979",
+      "right": "task_syn_007219",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001603",
+      "right": "task_syn_004723",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002851",
+      "right": "task_syn_004411",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000980",
+      "right": "task_syn_005660",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_004123",
+      "right": "task_syn_007243",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_003667",
+      "right": "task_syn_006787",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000380",
+      "right": "task_syn_006620",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_005372",
+      "right": "task_syn_006932",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000403",
+      "right": "task_syn_003523",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001339",
+      "right": "task_syn_004459",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001339",
+      "right": "task_syn_006019",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_004459",
+      "right": "task_syn_006019",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000716",
+      "right": "task_syn_006956",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001676",
+      "right": "task_syn_004796",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002300",
+      "right": "task_syn_003860",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_004484",
+      "right": "task_syn_007604",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000123",
+      "right": "task_syn_004803",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001075",
+      "right": "task_syn_002635",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_003260",
+      "right": "task_syn_007940",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002643",
+      "right": "task_syn_004203",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001099",
+      "right": "task_syn_004219",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000164",
+      "right": "task_syn_003284",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000788",
+      "right": "task_syn_005468",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002043",
+      "right": "task_syn_006723",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000187",
+      "right": "task_syn_006427",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002371",
+      "right": "task_syn_005491",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000835",
+      "right": "task_syn_007075",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001147",
+      "right": "task_syn_007387",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000836",
+      "right": "task_syn_003956",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000836",
+      "right": "task_syn_005516",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002708",
+      "right": "task_syn_007388",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_003956",
+      "right": "task_syn_005516",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_004915",
+      "right": "task_syn_006475",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001796",
+      "right": "task_syn_004916",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_003404",
+      "right": "task_syn_006524",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001531",
+      "right": "task_syn_003091",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_004027",
+      "right": "task_syn_005587",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_001532",
+      "right": "task_syn_004652",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002156",
+      "right": "task_syn_006836",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002780",
+      "right": "task_syn_004340",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000603",
+      "right": "task_syn_002163",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000603",
+      "right": "task_syn_006843",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002163",
+      "right": "task_syn_006843",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000307",
+      "right": "task_syn_003427",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002803",
+      "right": "task_syn_004363",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_005299",
+      "right": "task_syn_006859",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000308",
+      "right": "task_syn_004988",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000308",
+      "right": "task_syn_006548",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_004988",
+      "right": "task_syn_006548",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000003",
+      "right": "task_syn_004684",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_004683",
+      "right": "task_syn_004684",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_001900",
+      "right": "task_syn_004395",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002523",
+      "right": "task_syn_002524",
+      "similarity": 0.9735
+    },
+    {
+      "left": "task_syn_002523",
+      "right": "task_syn_004083",
+      "similarity": 0.9735
+    },
+    {
+      "left": "task_syn_002524",
+      "right": "task_syn_004083",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_000123",
+      "right": "task_syn_004804",
+      "similarity": 0.9225
+    },
+    {
+      "left": "task_syn_000123",
+      "right": "task_syn_007923",
+      "similarity": 0.9586
+    },
+    {
+      "left": "task_syn_004803",
+      "right": "task_syn_004804",
+      "similarity": 0.9225
+    },
+    {
+      "left": "task_syn_004803",
+      "right": "task_syn_007923",
+      "similarity": 0.9586
+    },
+    {
+      "left": "task_syn_004804",
+      "right": "task_syn_007923",
+      "similarity": 0.947
+    },
+    {
+      "left": "task_syn_002643",
+      "right": "task_syn_002644",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_002644",
+      "right": "task_syn_004203",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_000483",
+      "right": "task_syn_000484",
+      "similarity": 0.9735
+    },
+    {
+      "left": "task_syn_000483",
+      "right": "task_syn_002043",
+      "similarity": 0.9735
+    },
+    {
+      "left": "task_syn_000483",
+      "right": "task_syn_006723",
+      "similarity": 0.9735
+    },
+    {
+      "left": "task_syn_000483",
+      "right": "task_syn_006724",
+      "similarity": 0.9735
+    },
+    {
+      "left": "task_syn_000484",
+      "right": "task_syn_002043",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_000484",
+      "right": "task_syn_006723",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_000484",
+      "right": "task_syn_006724",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_002043",
+      "right": "task_syn_006724",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_006723",
+      "right": "task_syn_006724",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_000195",
+      "right": "task_syn_003940",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000195",
+      "right": "task_syn_006435",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_003940",
+      "right": "task_syn_006435",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_004563",
+      "right": "task_syn_004564",
+      "similarity": 0.9735
+    },
+    {
+      "left": "task_syn_002763",
+      "right": "task_syn_002764",
+      "similarity": 0.9225
+    },
+    {
+      "left": "task_syn_002763",
+      "right": "task_syn_004323",
+      "similarity": 0.9735
+    },
+    {
+      "left": "task_syn_002763",
+      "right": "task_syn_005883",
+      "similarity": 0.9586
+    },
+    {
+      "left": "task_syn_002764",
+      "right": "task_syn_004323",
+      "similarity": 0.947
+    },
+    {
+      "left": "task_syn_002764",
+      "right": "task_syn_005883",
+      "similarity": 0.947
+    },
+    {
+      "left": "task_syn_004323",
+      "right": "task_syn_005883",
+      "similarity": 0.947
+    },
+    {
+      "left": "task_syn_000603",
+      "right": "task_syn_000604",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_000603",
+      "right": "task_syn_006844",
+      "similarity": 0.9225
+    },
+    {
+      "left": "task_syn_000604",
+      "right": "task_syn_002163",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_000604",
+      "right": "task_syn_006843",
+      "similarity": 0.9483
+    },
+    {
+      "left": "task_syn_000604",
+      "right": "task_syn_006844",
+      "similarity": 0.9586
+    },
+    {
+      "left": "task_syn_002163",
+      "right": "task_syn_006844",
+      "similarity": 0.9225
+    },
+    {
+      "left": "task_syn_006843",
+      "right": "task_syn_006844",
+      "similarity": 0.9225
+    },
+    {
+      "left": "task_syn_001563",
+      "right": "task_syn_007803",
+      "similarity": 1.0
+    },
+    {
+      "left": "task_syn_000003",
+      "right": "task_syn_000315",
+      "similarity": 0.9774
+    },
+    {
+      "left": "task_syn_000003",
+      "right": "task_syn_005932",
+      "similarity": 0.9848
+    },
+    {
+      "left": "task_syn_000003",
+      "right": "task_syn_007492",
+      "similarity": 0.9594
+    },
+    {
+      "left": "task_syn_000315",
+      "right": "task_syn_000316",
+      "similarity": 0.948
+    },
+    {
+      "left": "task_syn_000315",
+      "right": "task_syn_002500",
+      "similarity": 0.948
+    }
+  ],
+  "high_token_5gram_overlap_pairs": [],
+  "max_fixture_schema_reuse": 668,
+  "normalized_prompt_duplicates": []
+}

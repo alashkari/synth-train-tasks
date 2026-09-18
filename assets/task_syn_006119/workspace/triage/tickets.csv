@@ -1,0 +1,9 @@
+ticket,severity,owner
+T006119-0,low,ari
+T006119-1,normal,bea
+T006119-2,high,cam
+T006119-3,low,dev
+T006119-4,normal,ari
+T006119-5,high,bea
+T006119-6,low,cam
+T006119-7,normal,dev

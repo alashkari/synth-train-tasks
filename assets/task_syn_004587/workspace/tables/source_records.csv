@@ -1,0 +1,11 @@
+raw_id,region,status,units,unit_cost,note
+gla-000,central,paused,16,27,standard
+gla-001,north,active,2,9,standard
+gla-002,south,active,5,20,standard
+gla-003,east,paused,8,31,standard
+gla-004,west,active,11,13,standard
+gla-005,central,active,14,24,standard
+gla-006,north,paused,17,6,standard
+gla-007,south,active,3,17,standard
+gla-008,east,active,6,28,standard
+broken-row,unknown,active,n/a,9,malformed

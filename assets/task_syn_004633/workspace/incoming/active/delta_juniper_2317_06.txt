@@ -1,0 +1,4 @@
+record 6 for customer migration in delta-juniper-2317
+status=active
+signal=review
+detail detail detail detail detail detail detail detail detail detail detail detail 

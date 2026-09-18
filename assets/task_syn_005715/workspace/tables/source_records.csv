@@ -1,0 +1,13 @@
+raw_id,region,status,units,unit_cost,note
+yon-000,west,paused,5,31,standard
+yon-001,central,active,8,13,distractor
+yon-002,north,active,11,24,standard
+yon-003,south,paused,14,6,standard
+yon-004,east,active,17,17,standard
+yon-005,west,active,3,28,standard
+yon-006,central,paused,6,10,standard
+yon-007,north,active,9,21,standard
+yon-008,south,active,12,32,standard
+yon-009,east,paused,15,14,standard
+yon-010,west,active,18,25,standard
+yon-011,central,active,4,7,standard

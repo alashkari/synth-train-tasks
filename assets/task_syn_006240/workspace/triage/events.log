@@ -1,0 +1,10 @@
+T006240-0 state=blocked
+T006240-1 state=ready
+T006240-2 state=ready
+T006240-3 state=ready
+T006240-4 state=blocked
+T006240-5 state=ready
+T006240-6 state=ready
+T006240-7 state=ready
+T006240-8 state=blocked
+malformed log line without a ticket id

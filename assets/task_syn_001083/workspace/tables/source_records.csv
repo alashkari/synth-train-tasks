@@ -1,0 +1,11 @@
+raw_id,region,status,units,unit_cost,note
+wil-000,east,paused,14,9,standard
+wil-001,west,active,17,20,standard
+wil-002,central,active,3,31,standard
+wil-003,north,paused,6,13,standard
+wil-004,south,active,9,24,standard
+wil-005,east,active,12,6,standard
+wil-006,west,paused,15,17,standard
+wil-007,central,active,18,28,standard
+wil-008,north,active,4,10,standard
+wil-009,south,paused,7,21,standard

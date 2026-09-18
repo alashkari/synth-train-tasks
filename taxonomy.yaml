@@ -1,0 +1,70 @@
+capability_families:
+  - id: file_directory_operations
+    name: File and directory operations
+    accepted_target_range_percent: [7, 10]
+  - id: structured_data_transformation
+    name: Structured-data transformation
+    accepted_target_range_percent: [7, 10]
+  - id: statistical_quantitative_analysis
+    name: Statistical and quantitative analysis
+    accepted_target_range_percent: [7, 10]
+  - id: unstructured_document_analysis
+    name: Unstructured-document analysis
+    accepted_target_range_percent: [7, 10]
+  - id: code_generation
+    name: Code generation
+    accepted_target_range_percent: [7, 10]
+  - id: code_debugging
+    name: Code debugging and repair
+    accepted_target_range_percent: [7, 10]
+  - id: repository_navigation_software_maintenance
+    name: Repository navigation and software maintenance
+    accepted_target_range_percent: [7, 10]
+  - id: web_information_gathering_source_synthesis
+    name: Web information gathering and source synthesis
+    accepted_target_range_percent: [7, 10]
+  - id: planning_scheduling_constraint_satisfaction
+    name: Planning, scheduling, and constraint satisfaction
+    accepted_target_range_percent: [7, 10]
+  - id: professional_communication_content_transformation
+    name: Professional communication and content transformation
+    accepted_target_range_percent: [7, 10]
+  - id: memory_retrieval_context_continuation
+    name: Memory, retrieval, and context continuation
+    accepted_target_range_percent: [7, 10]
+  - id: multi_tool_workflow_orchestration
+    name: Multi-tool workflow orchestration
+    accepted_target_range_percent: [7, 10]
+
+intended_difficulty_bands:
+  - band: 1
+    name: Direct
+    description: One clear operation, little context, and easily verifiable output.
+    accepted_target_percent: 20
+  - band: 2
+    name: Composed
+    description: Two or three dependent operations with multiple grading criteria.
+    accepted_target_percent: 20
+  - band: 3
+    name: Multi-step
+    description: Four or more meaningful operations across constraints or artifacts.
+    accepted_target_percent: 20
+  - band: 4
+    name: Investigative
+    description: Locate, compare, and synthesize substantial local evidence.
+    accepted_target_percent: 20
+  - band: 5
+    name: Constraint-heavy
+    description: Long dependency chains, interacting constraints, and recovery checks.
+    accepted_target_percent: 20
+
+grading_types:
+  automated:
+    target_percent: 70
+    description: Objective grader snippet only.
+  hybrid:
+    target_percent: 25
+    description: Automated checks plus a judge rubric for qualitative aspects.
+  llm_judge:
+    max_percent: 5
+    description: Judge rubric only, used where objective grading is not reliable.

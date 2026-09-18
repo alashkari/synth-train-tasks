@@ -1,0 +1,7 @@
+# Captured Source
+
+Project: glade-ember-0500
+Date: 2026-01-14
+Review status: superseded
+Metric value: 30
+Evidence phrase: inventory audit checkpoint 30

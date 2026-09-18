@@ -1,0 +1,10 @@
+T003120-0 state=blocked
+T003120-1 state=ready
+T003120-2 state=ready
+T003120-3 state=ready
+T003120-4 state=blocked
+T003120-5 state=ready
+T003120-6 state=ready
+T003120-7 state=ready
+T003120-8 state=blocked
+malformed log line without a ticket id

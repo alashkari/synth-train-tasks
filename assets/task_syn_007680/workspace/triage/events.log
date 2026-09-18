@@ -1,0 +1,10 @@
+T007680-0 state=blocked
+T007680-1 state=ready
+T007680-2 state=ready
+T007680-3 state=ready
+T007680-4 state=blocked
+T007680-5 state=ready
+T007680-6 state=ready
+T007680-7 state=ready
+T007680-8 state=blocked
+malformed log line without a ticket id

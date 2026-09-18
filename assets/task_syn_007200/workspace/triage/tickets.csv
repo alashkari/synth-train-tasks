@@ -1,0 +1,10 @@
+ticket,severity,owner
+T007200-0,low,ari
+T007200-1,normal,bea
+T007200-2,high,cam
+T007200-3,low,dev
+T007200-4,normal,ari
+T007200-5,high,bea
+T007200-6,low,cam
+T007200-7,normal,dev
+T007200-8,high,ari

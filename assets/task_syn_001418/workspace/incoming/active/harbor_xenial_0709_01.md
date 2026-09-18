@@ -1,0 +1,4 @@
+record 1 for customer migration in harbor-xenial-0709
+status=active
+signal=keep
+detail detail detail detail detail detail detail 

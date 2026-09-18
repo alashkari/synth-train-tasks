@@ -1,0 +1,4 @@
+record 3 for release readiness in juniper-amber-0061
+status=active
+signal=keep
+detail detail detail detail detail detail detail 

@@ -1,0 +1,14 @@
+sample_id,group,value,weight
+s000702_00,gamma,38,1
+s000702_01,delta,55,2
+s000702_02,alpha,72,3
+s000702_03,beta,89,4
+s000702_04,gamma,15,1
+s000702_05,delta,32,2
+s000702_06,alpha,49,3
+s000702_07,beta,66,4
+s000702_08,gamma,83,1
+s000702_09,delta,100,2
+s000702_10,alpha,26,3
+s000702_11,beta,43,4
+s000702_12,gamma,60,1

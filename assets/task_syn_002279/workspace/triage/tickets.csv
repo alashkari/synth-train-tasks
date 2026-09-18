@@ -1,0 +1,9 @@
+ticket,severity,owner
+T002279-0,low,ari
+T002279-1,normal,bea
+T002279-2,high,cam
+T002279-3,low,dev
+T002279-4,normal,ari
+T002279-5,high,bea
+T002279-6,low,cam
+T002279-7,normal,dev

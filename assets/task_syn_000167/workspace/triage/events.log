@@ -1,0 +1,7 @@
+T000167-0 state=blocked
+T000167-1 state=ready
+T000167-2 state=ready
+T000167-3 state=ready
+T000167-4 state=blocked
+T000167-5 state=ready
+malformed log line without a ticket id

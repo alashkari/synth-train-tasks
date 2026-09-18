@@ -1,0 +1,4 @@
+record 6 for billing review in lumen-ripple-3001
+status=active
+signal=review
+detail detail detail detail detail detail detail detail detail detail detail 

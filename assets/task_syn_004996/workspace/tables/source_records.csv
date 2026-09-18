@@ -1,0 +1,9 @@
+raw_id,region,status,units,unit_cost,note
+ced-000,west,paused,17,16,standard
+ced-001,central,active,3,27,standard
+ced-002,north,active,6,9,standard
+ced-003,south,paused,9,20,standard
+ced-004,east,active,12,31,standard
+ced-005,west,active,15,13,standard
+ced-006,central,paused,18,24,standard
+ced-007,north,active,4,6,standard

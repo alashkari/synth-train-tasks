@@ -1,0 +1,4 @@
+record 1 for release readiness in harbor-glade-2893
+status=active
+signal=keep
+detail detail detail detail detail 

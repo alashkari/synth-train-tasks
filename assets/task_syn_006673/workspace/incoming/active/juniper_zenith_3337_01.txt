@@ -1,0 +1,4 @@
+record 1 for customer migration in juniper-zenith-3337
+status=active
+signal=keep
+detail detail detail detail detail detail detail 

@@ -1,0 +1,576 @@
+[
+  {
+    "accepted_in_batch": 50,
+    "accepted_total": 50,
+    "batch": 1,
+    "batch_size": 50,
+    "candidate_end": 50,
+    "candidate_start": 1,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 50,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 300,
+    "batch": 2,
+    "batch_size": 250,
+    "candidate_end": 300,
+    "candidate_start": 51,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 550,
+    "batch": 3,
+    "batch_size": 250,
+    "candidate_end": 550,
+    "candidate_start": 301,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 800,
+    "batch": 4,
+    "batch_size": 250,
+    "candidate_end": 800,
+    "candidate_start": 551,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 1050,
+    "batch": 5,
+    "batch_size": 250,
+    "candidate_end": 1050,
+    "candidate_start": 801,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 1300,
+    "batch": 6,
+    "batch_size": 250,
+    "candidate_end": 1300,
+    "candidate_start": 1051,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 1550,
+    "batch": 7,
+    "batch_size": 250,
+    "candidate_end": 1550,
+    "candidate_start": 1301,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 1800,
+    "batch": 8,
+    "batch_size": 250,
+    "candidate_end": 1800,
+    "candidate_start": 1551,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 2050,
+    "batch": 9,
+    "batch_size": 250,
+    "candidate_end": 2050,
+    "candidate_start": 1801,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 2300,
+    "batch": 10,
+    "batch_size": 250,
+    "candidate_end": 2300,
+    "candidate_start": 2051,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 2550,
+    "batch": 11,
+    "batch_size": 250,
+    "candidate_end": 2550,
+    "candidate_start": 2301,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 2800,
+    "batch": 12,
+    "batch_size": 250,
+    "candidate_end": 2800,
+    "candidate_start": 2551,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 3050,
+    "batch": 13,
+    "batch_size": 250,
+    "candidate_end": 3050,
+    "candidate_start": 2801,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 3300,
+    "batch": 14,
+    "batch_size": 250,
+    "candidate_end": 3300,
+    "candidate_start": 3051,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 3550,
+    "batch": 15,
+    "batch_size": 250,
+    "candidate_end": 3550,
+    "candidate_start": 3301,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 3800,
+    "batch": 16,
+    "batch_size": 250,
+    "candidate_end": 3800,
+    "candidate_start": 3551,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 4050,
+    "batch": 17,
+    "batch_size": 250,
+    "candidate_end": 4050,
+    "candidate_start": 3801,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 4300,
+    "batch": 18,
+    "batch_size": 250,
+    "candidate_end": 4300,
+    "candidate_start": 4051,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 4550,
+    "batch": 19,
+    "batch_size": 250,
+    "candidate_end": 4550,
+    "candidate_start": 4301,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 4800,
+    "batch": 20,
+    "batch_size": 250,
+    "candidate_end": 4800,
+    "candidate_start": 4551,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 5050,
+    "batch": 21,
+    "batch_size": 250,
+    "candidate_end": 5050,
+    "candidate_start": 4801,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 5300,
+    "batch": 22,
+    "batch_size": 250,
+    "candidate_end": 5300,
+    "candidate_start": 5051,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 5550,
+    "batch": 23,
+    "batch_size": 250,
+    "candidate_end": 5550,
+    "candidate_start": 5301,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 5800,
+    "batch": 24,
+    "batch_size": 250,
+    "candidate_end": 5800,
+    "candidate_start": 5551,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 6050,
+    "batch": 25,
+    "batch_size": 250,
+    "candidate_end": 6050,
+    "candidate_start": 5801,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 6300,
+    "batch": 26,
+    "batch_size": 250,
+    "candidate_end": 6300,
+    "candidate_start": 6051,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 6550,
+    "batch": 27,
+    "batch_size": 250,
+    "candidate_end": 6550,
+    "candidate_start": 6301,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 6800,
+    "batch": 28,
+    "batch_size": 250,
+    "candidate_end": 6800,
+    "candidate_start": 6551,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 7050,
+    "batch": 29,
+    "batch_size": 250,
+    "candidate_end": 7050,
+    "candidate_start": 6801,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 7300,
+    "batch": 30,
+    "batch_size": 250,
+    "candidate_end": 7300,
+    "candidate_start": 7051,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 7550,
+    "batch": 31,
+    "batch_size": 250,
+    "candidate_end": 7550,
+    "candidate_start": 7301,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 250,
+    "accepted_total": 7800,
+    "batch": 32,
+    "batch_size": 250,
+    "candidate_end": 7800,
+    "candidate_start": 7551,
+    "rejected_in_batch": 0,
+    "validation": {
+      "accepted_checked": 250,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 200,
+    "accepted_total": 8000,
+    "batch": 33,
+    "batch_size": 250,
+    "candidate_end": 8050,
+    "candidate_start": 7801,
+    "rejected_in_batch": 50,
+    "validation": {
+      "accepted_checked": 200,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 0,
+    "accepted_total": 8000,
+    "batch": 34,
+    "batch_size": 250,
+    "candidate_end": 8300,
+    "candidate_start": 8051,
+    "rejected_in_batch": 250,
+    "validation": {
+      "accepted_checked": 0,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 0,
+    "accepted_total": 8000,
+    "batch": 35,
+    "batch_size": 250,
+    "candidate_end": 8550,
+    "candidate_start": 8301,
+    "rejected_in_batch": 250,
+    "validation": {
+      "accepted_checked": 0,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 0,
+    "accepted_total": 8000,
+    "batch": 36,
+    "batch_size": 250,
+    "candidate_end": 8800,
+    "candidate_start": 8551,
+    "rejected_in_batch": 250,
+    "validation": {
+      "accepted_checked": 0,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 0,
+    "accepted_total": 8000,
+    "batch": 37,
+    "batch_size": 250,
+    "candidate_end": 9050,
+    "candidate_start": 8801,
+    "rejected_in_batch": 250,
+    "validation": {
+      "accepted_checked": 0,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 0,
+    "accepted_total": 8000,
+    "batch": 38,
+    "batch_size": 250,
+    "candidate_end": 9300,
+    "candidate_start": 9051,
+    "rejected_in_batch": 250,
+    "validation": {
+      "accepted_checked": 0,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 0,
+    "accepted_total": 8000,
+    "batch": 39,
+    "batch_size": 250,
+    "candidate_end": 9550,
+    "candidate_start": 9301,
+    "rejected_in_batch": 250,
+    "validation": {
+      "accepted_checked": 0,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 0,
+    "accepted_total": 8000,
+    "batch": 40,
+    "batch_size": 250,
+    "candidate_end": 9800,
+    "candidate_start": 9551,
+    "rejected_in_batch": 250,
+    "validation": {
+      "accepted_checked": 0,
+      "error_count": 0,
+      "errors": []
+    }
+  },
+  {
+    "accepted_in_batch": 0,
+    "accepted_total": 8000,
+    "batch": 41,
+    "batch_size": 200,
+    "candidate_end": 10000,
+    "candidate_start": 9801,
+    "rejected_in_batch": 200,
+    "validation": {
+      "accepted_checked": 0,
+      "error_count": 0,
+      "errors": []
+    }
+  }
+]

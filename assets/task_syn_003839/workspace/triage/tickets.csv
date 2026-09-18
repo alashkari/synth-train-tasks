@@ -1,0 +1,9 @@
+ticket,severity,owner
+T003839-0,low,ari
+T003839-1,normal,bea
+T003839-2,high,cam
+T003839-3,low,dev
+T003839-4,normal,ari
+T003839-5,high,bea
+T003839-6,low,cam
+T003839-7,normal,dev

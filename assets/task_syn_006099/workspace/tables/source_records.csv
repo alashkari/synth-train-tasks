@@ -1,0 +1,12 @@
+raw_id,region,status,units,unit_cost,note
+ion-000,north,paused,15,20,standard
+ion-001,south,active,18,31,standard
+ion-002,east,active,4,13,standard
+ion-003,west,paused,7,24,standard
+ion-004,central,active,10,6,standard
+ion-005,north,active,13,17,standard
+ion-006,south,paused,16,28,standard
+ion-007,east,active,2,10,standard
+ion-008,west,active,5,21,standard
+ion-009,central,paused,8,32,standard
+ion-010,north,active,11,14,standard

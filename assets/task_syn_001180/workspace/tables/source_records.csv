@@ -1,0 +1,14 @@
+raw_id,region,status,units,unit_cost,note
+sum-000,north,paused,9,31,standard
+sum-001,south,active,12,13,distractor
+sum-002,east,active,15,24,standard
+sum-003,west,paused,18,6,standard
+sum-004,central,active,4,17,standard
+sum-005,north,active,7,28,standard
+sum-006,south,paused,10,10,standard
+sum-007,east,active,13,21,standard
+sum-008,west,active,16,32,standard
+sum-009,central,paused,2,14,standard
+sum-010,north,active,5,25,standard
+sum-011,south,active,8,7,standard
+broken-row,unknown,active,n/a,9,malformed

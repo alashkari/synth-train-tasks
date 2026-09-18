@@ -1,0 +1,8 @@
+ticket,severity,owner
+T001703-0,low,ari
+T001703-1,normal,bea
+T001703-2,high,cam
+T001703-3,low,dev
+T001703-4,normal,ari
+T001703-5,high,bea
+T001703-6,low,cam

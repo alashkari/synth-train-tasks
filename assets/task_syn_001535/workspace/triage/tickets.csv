@@ -1,0 +1,10 @@
+ticket,severity,owner
+T001535-0,low,ari
+T001535-1,normal,bea
+T001535-2,high,cam
+T001535-3,low,dev
+T001535-4,normal,ari
+T001535-5,high,bea
+T001535-6,low,cam
+T001535-7,normal,dev
+T001535-8,high,ari

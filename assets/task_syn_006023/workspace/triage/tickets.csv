@@ -1,0 +1,8 @@
+ticket,severity,owner
+T006023-0,low,ari
+T006023-1,normal,bea
+T006023-2,high,cam
+T006023-3,low,dev
+T006023-4,normal,ari
+T006023-5,high,bea
+T006023-6,low,cam

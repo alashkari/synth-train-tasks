@@ -1,0 +1,4 @@
+record 5 for knowledge-base upkeep in delta-keystone-2005
+status=active
+signal=keep
+detail detail detail detail detail detail detail detail detail detail detail detail detail 
